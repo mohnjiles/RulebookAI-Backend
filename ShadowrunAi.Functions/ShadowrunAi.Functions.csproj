@@ -31,8 +31,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="systemInstruction.txt" />
-    <Content Include="systemInstruction.txt">
+    <None Include="systemInstruction.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
