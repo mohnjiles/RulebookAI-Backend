@@ -33,7 +33,7 @@
   <ItemGroup>
     <None Include="systemInstruction.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    </None>
   </ItemGroup>
 
 </Project>
